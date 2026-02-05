@@ -1,0 +1,24 @@
+- other
+    # other
+    dart gun 00
+    mechanical wings 1333
+    phial 2
+    x random rare phial
+    x ink phial
+    x convalessence phial
+    x fluxPhial
+    x fluxPhial_NoSell
+    x soupPhial
+    x brainBrinePhial
+    x sunSlagPhial
+    x lavaPhial_Ingredient
+    x entropy cyst
+    gas mask 01
+    nylon bodypack 0023
+    glowsphere 123
+    floating glowsphere 234
+    x Quantum Mote
+    symbiotic firefly 26
+    telescopic monocle 22
+    basic toolkit 001
+    advanced toolkit 024

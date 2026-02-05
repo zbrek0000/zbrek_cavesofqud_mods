@@ -1,0 +1,8 @@
+{
+  "WorkshopId": 3658829165,
+  "Title": "Tinker More",
+  "Description": "Craft arrows! A simple resource mod that adds the ability to create non-technical items with bits using Tinkering. Very customizable.\n\n[b]customization[/b]\nyou can choose which kinds of items are tinkerable and whether you should be able to disassemble them in the mod settings\n\n[b]compatibility[/b]\nwhat the mod does is to\na) add tinker part to selected items\nb) remove the tinker part from items that inherit from a given item if there are any applicable\n\nSo, basically, this mod will be compatible with any other mod that doesn't do exactly the same thing. If you're using a mod that adds items that inherit from items that became tinkerable, they will become tinkerable too, for better or worse.\n\n[b]files[/b] \nIf you wish to add, remove or change any recipes, just edit the .xml files or if you prefer edit the .txt files and run the python script to populate the .xml files.\n\n[b]feedback[/b]\nPlease, let me know if there's anything that shouldn't be tinkerable but is or if you feel some of the recipes are unbalanced!",
+  "Tags": "Stable,Tinkering,Vanilla,Balance,Resource",
+  "Visibility": "2",
+  "ImagePath": "preview.png"
+}

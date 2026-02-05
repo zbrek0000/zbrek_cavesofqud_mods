@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<objects>
+	<!-- === axe === -->
+	<object Name="Battle Axe6" Load="Merge">
+		<part Name="TinkerItem" Bits="0256" CanBuild="true" CanDisassemble="true"/>
+	</object>
+	<object Name="Battle Axe8" Load="Merge">
+		<part Name="TinkerItem" Bits="045678" CanBuild="true" CanDisassemble="true"/>
+	</object>
+	<!-- === axe 2h === -->
+	<object Name="Battle Axe6th" Load="Merge">
+		<part Name="TinkerItem" Bits="02566" CanBuild="true" CanDisassemble="true"/>
+	</object>
+	<object Name="Battle Axe8th" Load="Merge">
+		<part Name="TinkerItem" Bits="0456678" CanBuild="true" CanDisassemble="true"/>
+	</object>
+	<!-- === cudgel === -->
+	<object Name="Cudgel6" Load="Merge">
+		<part Name="TinkerItem" Bits="0256" CanBuild="true" CanDisassemble="true"/>
+	</object>
+	<object Name="Cudgel8" Load="Merge">
+		<part Name="TinkerItem" Bits="045678" CanBuild="true" CanDisassemble="true"/>
+	</object>
+	<!-- === cudgel 2h === -->
+	<object Name="Cudgel6th" Load="Merge">
+		<part Name="TinkerItem" Bits="02566" CanBuild="true" CanDisassemble="true"/>
+	</object>
+	<object Name="Cudgel8th" Load="Merge">
+		<part Name="TinkerItem" Bits="0456678" CanBuild="true" CanDisassemble="true"/>
+	</object>
+	<!-- === long blade === -->
+	<object Name="Long Sword6" Load="Merge">
+		<part Name="TinkerItem" Bits="02566" CanBuild="true" CanDisassemble="true"/>
+	</object>
+	<object Name="Long Sword8" Load="Merge">
+		<part Name="TinkerItem" Bits="045678" CanBuild="true" CanDisassemble="true"/>
+	</object>
+	<!-- === long blade 2h === -->
+	<object Name="Long Sword6th" Load="Merge">
+		<part Name="TinkerItem" Bits="02566" CanBuild="true" CanDisassemble="true"/>
+	</object>
+	<object Name="Long Sword8th" Load="Merge">
+		<part Name="TinkerItem" Bits="0456678" CanBuild="true" CanDisassemble="true"/>
+	</object>
+	<!-- === short blade === -->
+	<object Name="Dagger6" Load="Merge">
+		<part Name="TinkerItem" Bits="02566" CanBuild="true" CanDisassemble="true"/>
+	</object>
+	<object Name="Dagger8" Load="Merge">
+		<part Name="TinkerItem" Bits="045678" CanBuild="true" CanDisassemble="true"/>
+	</object>
+	<object Name="AoygDagger" Load="Merge">
+		<removepart Name="TinkerItem"/>
+	</object>
+</objects>

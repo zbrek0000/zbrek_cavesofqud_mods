@@ -1,0 +1,45 @@
+- early
+    # shields
+    iron buckler C
+    steel buckler 0C
+    steel shield 0C
+    # body armor
+    chain mail 00CC
+    ring mail 00CC
+    elastyne skin suit 00C1
+    steel plate mail 00C1
+    # gloves
+    chain gauntlets 0CC
+    steel gauntlets 0CC
+    x spiked gauntlets
+    elastyne gloves 0C1
+    # boots
+    chain boots 0CC
+    steel boots 0CC
+    elastyne slippers 0C1
+- mid
+    # shields
+    carbide shield 0023
+    fullerite shield 0345
+    x blackboard
+    # body armor
+    carbide plate armor 0123
+    flexivest 0124
+    plastifer jerkin 0234
+    plastifer chem vest 02345
+    fullerite flake armor 01345
+    fullerite plate mail 01345
+    # boots
+    carbide boots 0023
+    plastifer sneakers 234
+    fullerite boots 1345
+- late
+    # shields
+    crysteel shield 0256
+    # body armor
+    crysteel shardmail 02256
+    nanoweave vest 05556
+    zetachrome lune 0045678
+    # boots
+    crysteel boots 0256
+    zetachrome pumps 045678

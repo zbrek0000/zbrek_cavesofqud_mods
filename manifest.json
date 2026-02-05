@@ -1,0 +1,90 @@
+{
+    "id": "zbrek_TinkerMore",
+    "title": "Tinker More",
+    "description": "{{|&YEver felt annoyed that you can't craft arrows?}}\nAllows you to tinker non-technical items: bows, arrows, melee weapons, armor and others.\n\n{{|&YYou can set which items are tinkerable and toggle disassembling in the mod options.}} Remember, adding more tinkerable items makes finding a specific schematic harder and making powerful items tinkerable will shift the balance of the game!\n\nTinkering level required is determined by CoQ based on the recipe; late-game items require high-tier bits.",
+    "version": "1.0.1",
+    "author": "zbrek",
+    "tags": "Stable,Tinkering,Vanilla,Balance,Resource",
+    "PreviewImage": "preview.png",
+    "Directories": [
+        {
+            "Path": "options"
+        },
+        {
+            "Path": "bows/early/disassemble",
+            "Options": "Option_zbrek_TinkerMore_EnableDisassemble==Yes,Option_zbrek_TinkerMore_EnableEarlyGameBow==Yes"
+        },
+        {
+            "Path": "bows/early/no_disassemble",
+            "Options": "Option_zbrek_TinkerMore_EnableDisassemble==No,Option_zbrek_TinkerMore_EnableEarlyGameBow==Yes"
+        },
+        {
+            "Path": "arrows/early",
+            "Options": "Option_zbrek_TinkerMore_EnableEarlyGameArrow==Yes"
+        },
+        {
+            "Path": "arrows/mid",
+            "Options": "Option_zbrek_TinkerMore_EnableMidGameArrow==Yes"
+        },
+        {
+            "Path": "arrows/late",
+            "Options": "Option_zbrek_TinkerMore_EnableLateGameArrow==Yes"
+        },
+        {
+            "Path": "armor/early/disassemble",
+            "Options": "Option_zbrek_TinkerMore_EnableDisassemble==Yes,Option_zbrek_TinkerMore_EnableEarlyGameArmor==Yes"
+        },
+        {
+            "Path": "armor/early/no_disassemble",
+            "Options": "Option_zbrek_TinkerMore_EnableDisassemble==No,Option_zbrek_TinkerMore_EnableEarlyGameArmor==Yes"
+        },
+        {
+            "Path": "armor/mid/disassemble",
+            "Options": "Option_zbrek_TinkerMore_EnableDisassemble==Yes,Option_zbrek_TinkerMore_EnableMidGameArmor==Yes"
+        },
+        {
+            "Path": "armor/mid/no_disassemble",
+            "Options": "Option_zbrek_TinkerMore_EnableDisassemble==No,Option_zbrek_TinkerMore_EnableMidGameArmor==Yes"
+        },
+        {
+            "Path": "armor/late/disassemble",
+            "Options": "Option_zbrek_TinkerMore_EnableDisassemble==Yes,Option_zbrek_TinkerMore_EnableLateGameArmor==Yes"
+        },
+        {
+            "Path": "armor/late/no_disassemble",
+            "Options": "Option_zbrek_TinkerMore_EnableDisassemble==No,Option_zbrek_TinkerMore_EnableLateGameArmor==Yes"
+        },
+        {
+            "Path": "melee/early/disassemble",
+            "Options": "Option_zbrek_TinkerMore_EnableDisassemble==Yes,Option_zbrek_TinkerMore_EnableEarlyGameMelee==Yes"
+        },
+        {
+            "Path": "melee/early/no_disassemble",
+            "Options": "Option_zbrek_TinkerMore_EnableDisassemble==No,Option_zbrek_TinkerMore_EnableEarlyGameMelee==Yes"
+        },
+        {
+            "Path": "melee/mid/disassemble",
+            "Options": "Option_zbrek_TinkerMore_EnableDisassemble==Yes,Option_zbrek_TinkerMore_EnableMidGameMelee==Yes"
+        },
+        {
+            "Path": "melee/mid/no_disassemble",
+            "Options": "Option_zbrek_TinkerMore_EnableDisassemble==No,Option_zbrek_TinkerMore_EnableMidGameMelee==Yes"
+        },
+        {
+            "Path": "melee/late/disassemble",
+            "Options": "Option_zbrek_TinkerMore_EnableDisassemble==Yes,Option_zbrek_TinkerMore_EnableLateGameMelee==Yes"
+        },
+        {
+            "Path": "melee/late/no_disassemble",
+            "Options": "Option_zbrek_TinkerMore_EnableDisassemble==No,Option_zbrek_TinkerMore_EnableLateGameMelee==Yes"
+        },
+        {
+            "Path": "other/other/disassemble",
+            "Options": "Option_zbrek_TinkerMore_EnableDisassemble==Yes,Option_zbrek_TinkerMore_EnableOther==Yes"
+        },
+        {
+            "Path": "other/other/no_disassemble",
+            "Options": "Option_zbrek_TinkerMore_EnableDisassemble==No,Option_zbrek_TinkerMore_EnableOther==Yes"
+        }
+    ]
+}

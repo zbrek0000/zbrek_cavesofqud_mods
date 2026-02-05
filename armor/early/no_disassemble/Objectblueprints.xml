@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<objects>
+	<!-- === shields === -->
+	<object Name="Iron Buckler" Load="Merge">
+		<part Name="TinkerItem" Bits="C" CanBuild="true" CanDisassemble="false"/>
+	</object>
+	<object Name="Steel Buckler" Load="Merge">
+		<part Name="TinkerItem" Bits="0C" CanBuild="true" CanDisassemble="false"/>
+	</object>
+	<object Name="Steel Shield" Load="Merge">
+		<part Name="TinkerItem" Bits="0C" CanBuild="true" CanDisassemble="false"/>
+	</object>
+	<!-- === body armor === -->
+	<object Name="Chain Mail" Load="Merge">
+		<part Name="TinkerItem" Bits="00CC" CanBuild="true" CanDisassemble="false"/>
+	</object>
+	<object Name="Ring Mail" Load="Merge">
+		<part Name="TinkerItem" Bits="00CC" CanBuild="true" CanDisassemble="false"/>
+	</object>
+	<object Name="Elastyne Skin Suit" Load="Merge">
+		<part Name="TinkerItem" Bits="00C1" CanBuild="true" CanDisassemble="false"/>
+	</object>
+	<object Name="Steel Plate Mail" Load="Merge">
+		<part Name="TinkerItem" Bits="00C1" CanBuild="true" CanDisassemble="false"/>
+	</object>
+	<!-- === gloves === -->
+	<object Name="Chain Gauntlets" Load="Merge">
+		<part Name="TinkerItem" Bits="0CC" CanBuild="true" CanDisassemble="false"/>
+	</object>
+	<object Name="Steel Gauntlets" Load="Merge">
+		<part Name="TinkerItem" Bits="0CC" CanBuild="true" CanDisassemble="false"/>
+	</object>
+	<object Name="Spiked Gauntlets" Load="Merge">
+		<removepart Name="TinkerItem"/>
+	</object>
+	<object Name="Elastyne Gloves" Load="Merge">
+		<part Name="TinkerItem" Bits="0C1" CanBuild="true" CanDisassemble="false"/>
+	</object>
+	<!-- === boots === -->
+	<object Name="Chain Boots" Load="Merge">
+		<part Name="TinkerItem" Bits="0CC" CanBuild="true" CanDisassemble="false"/>
+	</object>
+	<object Name="Steel Boots" Load="Merge">
+		<part Name="TinkerItem" Bits="0CC" CanBuild="true" CanDisassemble="false"/>
+	</object>
+	<object Name="Elastyne Slippers" Load="Merge">
+		<part Name="TinkerItem" Bits="0C1" CanBuild="true" CanDisassemble="false"/>
+	</object>
+</objects>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<objects>
+	<!-- === bows === -->
+	<object Name="Short Bow" Load="Merge">
+		<part Name="TinkerItem" Bits="0" CanBuild="true" CanDisassemble="false"/>
+	</object>
+	<object Name="Compound Bow" Load="Merge">
+		<part Name="TinkerItem" Bits="00" CanBuild="true" CanDisassemble="false"/>
+	</object>
+</objects>

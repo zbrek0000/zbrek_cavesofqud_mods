@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<options>
+  <option ID="Option_zbrek_TinkerMore_EnableDisassemble" DisplayText="Allow disassembling"
+    Category="Mods: Tinker More"
+    Type="Checkbox" Default="Yes" Restart="true">
+    <helptext>
+      Allows disassembling non-technical tinkerable items from the mod
+    </helptext>
+  </option>
+
+  <option ID="Option_zbrek_TinkerMore_EnableEarlyGameArmor" DisplayText="Tinker early-game armor"
+    Category="Mods: Tinker More"
+    Type="Checkbox" Default="Yes" Restart="true">
+    <helptext>
+      Makes more early-game armor [metal bucklers/shields, chain mail, ring mail, elastyne, plate]
+      tinkerable
+    </helptext>
+  </option>
+  <option ID="Option_zbrek_TinkerMore_EnableMidGameArmor" DisplayText="Tinker mid-game armor"
+    Category="Mods: Tinker More"
+    Type="Checkbox" Default="Yes" Restart="true">
+    <helptext>
+      Makes more mid-game armor [carbide, flexivest, plastifer, fullerite] tinkerable
+    </helptext>
+  </option>
+  <option ID="Option_zbrek_TinkerMore_EnableLateGameArmor" DisplayText="Tinker late-game armor"
+    Category="Mods: Tinker More"
+    Type="Checkbox" Default="Yes" Restart="true">
+    <helptext>
+      Makes more late-game armor [crysteel, nanoweave, zetachrome] tinkerable
+    </helptext>
+  </option>
+
+  <option ID="Option_zbrek_TinkerMore_EnableEarlyGameMelee"
+    DisplayText="Tinker early-game melee weapons"
+    Category="Mods: Tinker More"
+    Type="Checkbox" Default="Yes" Restart="true">
+    <helptext>
+      Makes more early-game melee weapons [pickaxe, wrech, iron, steel] tinkerable
+    </helptext>
+  </option>
+  <option ID="Option_zbrek_TinkerMore_EnableMidGameMelee"
+    DisplayText="Tinker mid-game melee weapons"
+    Category="Mods: Tinker More"
+    Type="Checkbox" Default="Yes" Restart="true">
+    <helptext>
+      Makes more mid-game melee weapons [carbide, folded carbide, fullerite] tinkerable
+    </helptext>
+  </option>
+  <option ID="Option_zbrek_TinkerMore_EnableLateGameMelee"
+    DisplayText="Tinker late-game melee weapons"
+    Category="Mods: Tinker More"
+    Type="Checkbox" Default="Yes" Restart="true">
+    <helptext>
+      Makes more late-game melee weapons [crysteel, zetachrome] tinkerable
+    </helptext>
+  </option>
+
+  <option ID="Option_zbrek_TinkerMore_EnableEarlyGameArrow" DisplayText="Tinker early-game arrows"
+    Category="Mods: Tinker More"
+    Type="Checkbox" Default="Yes" Restart="true">
+    <helptext>
+      Makes some early-game arrows [steel, boomrose] tinkerable
+    </helptext>
+  </option>
+  <option ID="Option_zbrek_TinkerMore_EnableMidGameArrow" DisplayText="Tinker mid-game arrows"
+    Category="Mods: Tinker More"
+    Type="Checkbox" Default="Yes" Restart="true">
+    <helptext>
+      Makes some mid-game arrows [carbide, folded carbide, fullerite] tinkerable
+    </helptext>
+  </option>
+  <option ID="Option_zbrek_TinkerMore_EnableLateGameArrow" DisplayText="Tinker late-game arrows"
+    Category="Mods: Tinker More"
+    Type="Checkbox" Default="Yes" Restart="true">
+    <helptext>
+      Makes more late-game arrows [crysteel, zetachrome] tinkerable
+    </helptext>
+  </option>
+
+  <option ID="Option_zbrek_TinkerMore_EnableEarlyGameBow" DisplayText="Tinker early-game bows"
+    Category="Mods: Tinker More"
+    Type="Checkbox" Default="Yes" Restart="true">
+    <helptext>
+      Makes early-game bows [short bow, composite bow] - these are all non-tinkerable bows for now -
+      tinkerable
+    </helptext>
+  </option>
+
+  <option ID="Option_zbrek_TinkerMore_EnableOther" DisplayText="Tinker other useful items"
+    Category="Mods: Tinker More"
+    Type="Checkbox" Default="Yes" Restart="true">
+    <helptext>
+      Makes some other useful items [mechanical wings, phial, gas mask, nylon bodypack, symbiotic firefly, glowsphere,
+      floating glowsphere, telescopic monocle, basic toolkit, advanced toolkit, dart gun] tinkerable
+    </helptext>
+  </option>
+</options>

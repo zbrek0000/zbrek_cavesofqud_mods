@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<objects>
+	<!-- === axe === -->
+	<object Name="Iron Vinereaper" Load="Merge">
+		<part Name="TinkerItem" Bits="0" CanBuild="true" CanDisassemble="false"/>
+	</object>
+	<object Name="Battle Axe2" Load="Merge">
+		<part Name="TinkerItem" Bits="0" CanBuild="true" CanDisassemble="false"/>
+	</object>
+	<object Name="BaseRelicAxe1" Load="Merge">
+		<removepart Name="TinkerItem"/>
+	</object>
+	<object Name="TutorialBattleAxe" Load="Merge">
+		<removepart Name="TinkerItem"/>
+	</object>
+	<object Name="Steel Battle Axe" Load="Merge">
+		<part Name="TinkerItem" Bits="00" CanBuild="true" CanDisassemble="false"/>
+	</object>
+	<object Name="BaseRelicAxe2" Load="Merge">
+		<removepart Name="TinkerItem"/>
+	</object>
+	<object Name="Steel Hand Axe" Load="Merge">
+		<part Name="TinkerItem" Bits="00" CanBuild="true" CanDisassemble="false"/>
+	</object>
+	<object Name="Steel Vinereaper" Load="Merge">
+		<part Name="TinkerItem" Bits="00" CanBuild="true" CanDisassemble="false"/>
+	</object>
+	<!-- === axe 2h === -->
+	<object Name="Steel Battle Axeth" Load="Merge">
+		<part Name="TinkerItem" Bits="000" CanBuild="true" CanDisassemble="false"/>
+	</object>
+	<object Name="BaseRelicAxe2th" Load="Merge">
+		<removepart Name="TinkerItem"/>
+	</object>
+	<!-- === cudgel === -->
+	<object Name="Wrench" Load="Merge">
+		<part Name="TinkerItem" Bits="0" CanBuild="true" CanDisassemble="false"/>
+	</object>
+	<object Name="Warhammer2" Load="Merge">
+		<part Name="TinkerItem" Bits="0" CanBuild="true" CanDisassemble="false"/>
+	</object>
+	<object Name="BaseRelicCudgel1" Load="Merge">
+		<removepart Name="TinkerItem"/>
+	</object>
+	<object Name="BaseRelicCudgel1th" Load="Merge">
+		<removepart Name="TinkerItem"/>
+	</object>
+	<object Name="Steel War Hammer" Load="Merge">
+		<part Name="TinkerItem" Bits="00" CanBuild="true" CanDisassemble="false"/>
+	</object>
+	<object Name="Steel Hammer" Load="Merge">
+		<part Name="TinkerItem" Bits="00" CanBuild="true" CanDisassemble="false"/>
+	</object>
+	<object Name="BaseRelicCudgel2" Load="Merge">
+		<removepart Name="TinkerItem"/>
+	</object>
+	<object Name="BaseRelicCudgel2th" Load="Merge">
+		<removepart Name="TinkerItem"/>
+	</object>
+	<!-- === cudgel 2h === -->
+	<object Name="Steel War Hammerth" Load="Merge">
+		<part Name="TinkerItem" Bits="000" CanBuild="true" CanDisassemble="false"/>
+	</object>
+	<!-- === long blade === -->
+	<object Name="Long Sword2" Load="Merge">
+		<part Name="TinkerItem" Bits="0" CanBuild="true" CanDisassemble="false"/>
+	</object>
+	<object Name="BaseRelicLongsword1" Load="Merge">
+		<removepart Name="TinkerItem"/>
+	</object>
+	<object Name="Steel Long Sword" Load="Merge">
+		<part Name="TinkerItem" Bits="00" CanBuild="true" CanDisassemble="false"/>
+	</object>
+	<object Name="BaseRelicLongsword2" Load="Merge">
+		<removepart Name="TinkerItem"/>
+	</object>
+	<!-- === long blade 2h === -->
+	<object Name="Long Sword2th" Load="Merge">
+		<part Name="TinkerItem" Bits="00" CanBuild="true" CanDisassemble="false"/>
+	</object>
+	<object Name="BaseRelicLongsword1th" Load="Merge">
+		<removepart Name="TinkerItem"/>
+	</object>
+	<object Name="Steel Long Swordth" Load="Merge">
+		<part Name="TinkerItem" Bits="000" CanBuild="true" CanDisassemble="false"/>
+	</object>
+	<object Name="BaseRelicLongsword2th" Load="Merge">
+		<removepart Name="TinkerItem"/>
+	</object>
+	<!-- === short blade === -->
+	<object Name="Dagger2" Load="Merge">
+		<part Name="TinkerItem" Bits="0" CanBuild="true" CanDisassemble="false"/>
+	</object>
+	<object Name="TutorialDagger" Load="Merge">
+		<removepart Name="TinkerItem"/>
+	</object>
+	<object Name="BaseRelicDagger1" Load="Merge">
+		<removepart Name="TinkerItem"/>
+	</object>
+	<object Name="Steel Dagger" Load="Merge">
+		<part Name="TinkerItem" Bits="00" CanBuild="true" CanDisassemble="false"/>
+	</object>
+	<object Name="BaseRelicDagger2" Load="Merge">
+		<removepart Name="TinkerItem"/>
+	</object>
+	<object Name="Steel Butcher Knife" Load="Merge">
+		<part Name="TinkerItem" Bits="00" CanBuild="true" CanDisassemble="false"/>
+	</object>
+</objects>

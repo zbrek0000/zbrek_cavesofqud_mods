@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<objects>
+	<!-- === shields === -->
+	<object Name="Carbide Shield" Load="Merge">
+		<part Name="TinkerItem" Bits="0024" CanBuild="true" CanDisassemble="false"/>
+	</object>
+	<object Name="Fullerite Shield" Load="Merge">
+		<part Name="TinkerItem" Bits="0345" CanBuild="true" CanDisassemble="false"/>
+	</object>
+	<object Name="Blackboard" Load="Merge">
+		<removepart Name="TinkerItem"/>
+	</object>
+	<!-- === body armor === -->
+	<object Name="Carbide Plate Armor" Load="Merge">
+		<part Name="TinkerItem" Bits="0124" CanBuild="true" CanDisassemble="false"/>
+	</object>
+	<object Name="Flexivest" Load="Merge">
+		<part Name="TinkerItem" Bits="0124" CanBuild="true" CanDisassemble="false"/>
+	</object>
+	<object Name="Plastifer Jerkin" Load="Merge">
+		<part Name="TinkerItem" Bits="0234" CanBuild="true" CanDisassemble="false"/>
+	</object>
+	<object Name="Plastifer Chem Vest" Load="Merge">
+		<part Name="TinkerItem" Bits="02345" CanBuild="true" CanDisassemble="false"/>
+	</object>
+	<object Name="Fullerite Flake Armor" Load="Merge">
+		<part Name="TinkerItem" Bits="01345" CanBuild="true" CanDisassemble="false"/>
+	</object>
+	<object Name="Fullerite Plate Mail" Load="Merge">
+		<part Name="TinkerItem" Bits="01345" CanBuild="true" CanDisassemble="false"/>
+	</object>
+	<!-- === boots === -->
+	<object Name="Carbide Boots" Load="Merge">
+		<part Name="TinkerItem" Bits="0024" CanBuild="true" CanDisassemble="false"/>
+	</object>
+	<object Name="Plastifer Sneakers" Load="Merge">
+		<part Name="TinkerItem" Bits="234" CanBuild="true" CanDisassemble="false"/>
+	</object>
+	<object Name="Fullerite Boots" Load="Merge">
+		<part Name="TinkerItem" Bits="1345" CanBuild="true" CanDisassemble="false"/>
+	</object>
+</objects>

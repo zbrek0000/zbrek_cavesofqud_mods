@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<objects>
+	<!-- === shields === -->
+	<object Name="Crysteel Shield" Load="Merge">
+		<part Name="TinkerItem" Bits="0256" CanBuild="true" CanDisassemble="true"/>
+	</object>
+	<!-- === body armor === -->
+	<object Name="Crysteel Shardmail" Load="Merge">
+		<part Name="TinkerItem" Bits="02256" CanBuild="true" CanDisassemble="true"/>
+	</object>
+	<object Name="Nanoweave Vest" Load="Merge">
+		<part Name="TinkerItem" Bits="05556" CanBuild="true" CanDisassemble="true"/>
+	</object>
+	<object Name="Zetachrome Lune" Load="Merge">
+		<part Name="TinkerItem" Bits="0045678" CanBuild="true" CanDisassemble="true"/>
+	</object>
+	<!-- === boots === -->
+	<object Name="Crysteel Boots" Load="Merge">
+		<part Name="TinkerItem" Bits="0256" CanBuild="true" CanDisassemble="true"/>
+	</object>
+	<object Name="Zetachrome Pumps" Load="Merge">
+		<part Name="TinkerItem" Bits="045678" CanBuild="true" CanDisassemble="true"/>
+	</object>
+</objects>

@@ -1,0 +1,101 @@
+- early
+# axe
+iron vinereaper 0
+battle axe2 0
+x baseRelicAxe1
+x tutorialBattleAxe
+steel battle axe 00
+x baseRelicAxe2
+steel hand axe 00
+steel vinereaper 00
+# axe 2h
+steel battle axeth 000
+x baseRelicAxe2th
+# cudgel
+wrench 0
+warhammer2 0
+x BaseRelicCudgel1
+x BaseRelicCudgel1th
+steel war hammer 00
+steel hammer 00
+x BaseRelicCudgel2
+x BaseRelicCudgel2th
+# cudgel 2h
+steel war hammerth 000
+# long blade
+long sword2 0
+x baseRelicLongsword1
+steel long sword 00
+x baseRelicLongsword2
+# long blade 2h
+long sword2th 00
+x BaseRelicLongsword1th
+steel long swordth 000
+x BaseRelicLongsword2th
+# short blade
+dagger2 0
+x tutorialDagger
+x baseRelicDagger1
+steel dagger 00
+x baseRelicDagger2
+steel butcher knife 00
+- mid
+# axe
+battle axe3 023
+battle axe4 0234
+x shayna
+x yal
+x ari
+battle axe5 1345
+# axe 2h
+battle axe3th 0233
+battle axe4th 2344
+battle axe5th 3455
+# cudgel
+cudgel3 023
+cudgel4 0234
+cudgel5 1345
+# cudgel 2h
+cudgel3th 0233
+cudgel4th 2344
+cudgel5th 3455
+# long blade
+long sword3 023
+x ceremonial khopesh
+long sword4 0234
+x caslainard
+x polluxus
+long sword5 1345
+# long blade 2h
+long sword3th 0233
+long sword4th 2344
+long sword5th 3455
+# short blade
+dagger3 023
+x BloodyDagger3
+dagger4 0234
+x difucila
+dagger5 1345
+- late
+# axe
+battle axe6 0256
+battle axe8 045678
+# axe 2h
+battle axe6th 02566
+battle axe8th 0456678
+# cudgel
+cudgel6 0256
+cudgel8 045678
+# cudgel 2h
+cudgel6th 02566
+cudgel8th 0456678
+# long blade
+long sword6 02566
+long sword8 045678
+# long blade 2h
+long sword6th 02566
+long sword8th 0456678
+# short blade
+dagger6 02566
+dagger8 045678
+x aoygDagger

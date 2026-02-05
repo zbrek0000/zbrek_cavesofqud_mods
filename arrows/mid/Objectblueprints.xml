@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<objects>
+	<!-- === arrows === -->
+	<object Name="Carbide Arrow" Load="Merge">
+		<part Name="TinkerItem" Bits="4" CanBuild="true" CanDisassemble="false" NumberMade="20"/>
+	</object>
+	<object Name="Folded Carbide Arrow" Load="Merge">
+		<part Name="TinkerItem" Bits="24" CanBuild="true" CanDisassemble="false" NumberMade="20"/>
+	</object>
+	<object Name="Fullerite Arrow" Load="Merge">
+		<part Name="TinkerItem" Bits="45" CanBuild="true" CanDisassemble="false" NumberMade="20"/>
+	</object>
+</objects>

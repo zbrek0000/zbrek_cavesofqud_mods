@@ -1,0 +1,4 @@
+- early
+    # bows
+    short bow 0
+    compound bow 00
