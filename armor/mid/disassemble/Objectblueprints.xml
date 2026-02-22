@@ -2,7 +2,7 @@
 <objects>
 	<!-- === shields === -->
 	<object Name="Carbide Shield" Load="Merge">
-		<part Name="TinkerItem" Bits="0024" CanBuild="true" CanDisassemble="true"/>
+		<part Name="TinkerItem" Bits="0023" CanBuild="true" CanDisassemble="true"/>
 	</object>
 	<object Name="Fullerite Shield" Load="Merge">
 		<part Name="TinkerItem" Bits="0345" CanBuild="true" CanDisassemble="true"/>
@@ -12,7 +12,7 @@
 	</object>
 	<!-- === body armor === -->
 	<object Name="Carbide Plate Armor" Load="Merge">
-		<part Name="TinkerItem" Bits="0124" CanBuild="true" CanDisassemble="true"/>
+		<part Name="TinkerItem" Bits="0123" CanBuild="true" CanDisassemble="true"/>
 	</object>
 	<object Name="Flexivest" Load="Merge">
 		<part Name="TinkerItem" Bits="0124" CanBuild="true" CanDisassemble="true"/>
@@ -31,12 +31,33 @@
 	</object>
 	<!-- === boots === -->
 	<object Name="Carbide Boots" Load="Merge">
-		<part Name="TinkerItem" Bits="0024" CanBuild="true" CanDisassemble="true"/>
+		<part Name="TinkerItem" Bits="0023" CanBuild="true" CanDisassemble="true"/>
 	</object>
 	<object Name="Plastifer Sneakers" Load="Merge">
 		<part Name="TinkerItem" Bits="234" CanBuild="true" CanDisassemble="true"/>
 	</object>
 	<object Name="Fullerite Boots" Load="Merge">
+		<part Name="TinkerItem" Bits="1345" CanBuild="true" CanDisassemble="true"/>
+	</object>
+	<!-- === gloves === -->
+	<object Name="Carbide Gauntlets" Load="Merge">
+		<part Name="TinkerItem" Bits="0023" CanBuild="true" CanDisassemble="true"/>
+	</object>
+	<object Name="Plastifer Gloves" Load="Merge">
+		<part Name="TinkerItem" Bits="234" CanBuild="true" CanDisassemble="true"/>
+	</object>
+	<object Name="Fullerite Gauntlets" Load="Merge">
+		<part Name="TinkerItem" Bits="1345" CanBuild="true" CanDisassemble="true"/>
+	</object>
+	<!-- === cloaks === -->
+	<object Name="Ironweave Cloak" Load="Merge">
+		<part Name="TinkerItem" Bits="134" CanBuild="true" CanDisassemble="true"/>
+	</object>
+	<!-- === helmets === -->
+	<object Name="Plastifer Bonnet" Load="Merge">
+		<part Name="TinkerItem" Bits="234" CanBuild="true" CanDisassemble="true"/>
+	</object>
+	<object Name="Fullerite Armet" Load="Merge">
 		<part Name="TinkerItem" Bits="1345" CanBuild="true" CanDisassemble="true"/>
 	</object>
 </objects>

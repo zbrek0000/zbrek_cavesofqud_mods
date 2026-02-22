@@ -2,23 +2,76 @@
 <objects>
 	<!-- === shields === -->
 	<object Name="Crysteel Shield" Load="Merge">
-		<part Name="TinkerItem" Bits="0256" CanBuild="true" CanDisassemble="false"/>
+		<part Name="TinkerItem" Bits="256" CanBuild="true" CanDisassemble="false"/>
+	</object>
+	<object Name="BaseTierShield6" Load="Merge">
+		<removepart Name="TinkerItem"/>
 	</object>
 	<!-- === body armor === -->
 	<object Name="Crysteel Shardmail" Load="Merge">
-		<part Name="TinkerItem" Bits="02256" CanBuild="true" CanDisassemble="false"/>
+		<part Name="TinkerItem" Bits="2556" CanBuild="true" CanDisassemble="false"/>
+	</object>
+	<object Name="BaseTierBody6_AV" Load="Merge">
+		<removepart Name="TinkerItem"/>
 	</object>
 	<object Name="Nanoweave Vest" Load="Merge">
-		<part Name="TinkerItem" Bits="05556" CanBuild="true" CanDisassemble="false"/>
+		<part Name="TinkerItem" Bits="5556" CanBuild="true" CanDisassemble="false"/>
 	</object>
 	<object Name="Zetachrome Lune" Load="Merge">
-		<part Name="TinkerItem" Bits="0045678" CanBuild="true" CanDisassemble="false"/>
+		<part Name="TinkerItem" Bits="456778" CanBuild="true" CanDisassemble="false"/>
+	</object>
+	<object Name="BaseTierBody8_AV" Load="Merge">
+		<removepart Name="TinkerItem"/>
 	</object>
 	<!-- === boots === -->
 	<object Name="Crysteel Boots" Load="Merge">
-		<part Name="TinkerItem" Bits="0256" CanBuild="true" CanDisassemble="false"/>
+		<part Name="TinkerItem" Bits="256" CanBuild="true" CanDisassemble="false"/>
+	</object>
+	<object Name="BaseTierFeet6_AV" Load="Merge">
+		<removepart Name="TinkerItem"/>
 	</object>
 	<object Name="Zetachrome Pumps" Load="Merge">
-		<part Name="TinkerItem" Bits="045678" CanBuild="true" CanDisassemble="false"/>
+		<part Name="TinkerItem" Bits="45678" CanBuild="true" CanDisassemble="false"/>
+	</object>
+	<object Name="BaseTierFeet8_AV" Load="Merge">
+		<removepart Name="TinkerItem"/>
+	</object>
+	<!-- === gloves === -->
+	<object Name="Crysteel Gauntlets" Load="Merge">
+		<part Name="TinkerItem" Bits="256" CanBuild="true" CanDisassemble="false"/>
+	</object>
+	<object Name="BaseTierHands6_AV" Load="Merge">
+		<removepart Name="TinkerItem"/>
+	</object>
+	<object Name="Flawless Crysteel Gauntlets" Load="Merge">
+		<part Name="TinkerItem" Bits="3567" CanBuild="true" CanDisassemble="false"/>
+	</object>
+	<object Name="Zetachrome Gloves" Load="Merge">
+		<part Name="TinkerItem" Bits="45678" CanBuild="true" CanDisassemble="false"/>
+	</object>
+	<object Name="BaseTierHands8_AV" Load="Merge">
+		<removepart Name="TinkerItem"/>
+	</object>
+	<!-- === helmets === -->
+	<object Name="Crysteel Coronet" Load="Merge">
+		<part Name="TinkerItem" Bits="256" CanBuild="true" CanDisassemble="false"/>
+	</object>
+	<object Name="BaseTierHead6_AV" Load="Merge">
+		<removepart Name="TinkerItem"/>
+	</object>
+	<object Name="Flawless Crysteel Coronet" Load="Merge">
+		<part Name="TinkerItem" Bits="3567" CanBuild="true" CanDisassemble="false"/>
+	</object>
+	<object Name="BaseTierHead7_AV" Load="Merge">
+		<removepart Name="TinkerItem"/>
+	</object>
+	<object Name="Zetachrome Apex" Load="Merge">
+		<part Name="TinkerItem" Bits="45678" CanBuild="true" CanDisassemble="false"/>
+	</object>
+	<object Name="BaseTierHead8_AV" Load="Merge">
+		<removepart Name="TinkerItem"/>
+	</object>
+	<object Name="Mental Aggregator" Load="Merge">
+		<part Name="TinkerItem" Bits="4578" CanBuild="true" CanDisassemble="false"/>
 	</object>
 </objects>

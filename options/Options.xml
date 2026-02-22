@@ -27,7 +27,7 @@
     Category="Mods: Tinker More"
     Type="Checkbox" Default="Yes" Restart="true">
     <helptext>
-      Makes more late-game armor [crysteel, nanoweave, zetachrome] tinkerable
+      Makes more late-game armor [crysteel, flawless crysteel, nanoweave, zetachrome] tinkerable
     </helptext>
   </option>
 
@@ -52,7 +52,7 @@
     Category="Mods: Tinker More"
     Type="Checkbox" Default="Yes" Restart="true">
     <helptext>
-      Makes more late-game melee weapons [crysteel, zetachrome] tinkerable
+      Makes more late-game melee weapons [crysteel, flawless crysteel, zetachrome] tinkerable
     </helptext>
   </option>
 
@@ -74,7 +74,7 @@
     Category="Mods: Tinker More"
     Type="Checkbox" Default="Yes" Restart="true">
     <helptext>
-      Makes more late-game arrows [crysteel, zetachrome] tinkerable
+      Makes more late-game arrows [crysteel, flawless crysteel, zetachrome] tinkerable
     </helptext>
   </option>
 
@@ -91,7 +91,7 @@
     Category="Mods: Tinker More"
     Type="Checkbox" Default="Yes" Restart="true">
     <helptext>
-      Makes some other useful items [mechanical wings, phial, gas mask, nylon bodypack, symbiotic firefly, glowsphere,
+      Makes some other useful items [mechanical wings, phial, spray bottle, wrist warmer, compass bracelet, bounding boots, gas mask, nylon bodypack, symbiotic firefly, glowsphere,
       floating glowsphere, telescopic monocle, basic toolkit, advanced toolkit, dart gun] tinkerable
     </helptext>
   </option>

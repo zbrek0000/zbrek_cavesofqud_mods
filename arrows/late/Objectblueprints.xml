@@ -4,6 +4,9 @@
 	<object Name="Crysteel Arrow" Load="Merge">
 		<part Name="TinkerItem" Bits="56" CanBuild="true" CanDisassemble="false" NumberMade="10"/>
 	</object>
+	<object Name="Flawless Crysteel Arrow" Load="Merge">
+		<part Name="TinkerItem" Bits="67" CanBuild="true" CanDisassemble="false" NumberMade="10"/>
+	</object>
 	<object Name="Zetachrome Arrow" Load="Merge">
 		<part Name="TinkerItem" Bits="78" CanBuild="true" CanDisassemble="false" NumberMade="10"/>
 	</object>

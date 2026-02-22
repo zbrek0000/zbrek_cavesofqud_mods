@@ -1,3 +1,9 @@
+# 1.1.0
+- minor adjustments to make recipes shorter and correspond to item tier
+- add helmets, flawless crysteel items and other miscellaneous items
+- more python scripts and changed folder structure
+- add README.md
+
 # 1.0.1
 - make carbide items use <3> instead of <4> to correspond to the item tier
 - toggle disassemble by default

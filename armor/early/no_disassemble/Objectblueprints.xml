@@ -18,7 +18,7 @@
 		<part Name="TinkerItem" Bits="00CC" CanBuild="true" CanDisassemble="false"/>
 	</object>
 	<object Name="Elastyne Skin Suit" Load="Merge">
-		<part Name="TinkerItem" Bits="00C1" CanBuild="true" CanDisassemble="false"/>
+		<part Name="TinkerItem" Bits="C112" CanBuild="true" CanDisassemble="false"/>
 	</object>
 	<object Name="Steel Plate Mail" Load="Merge">
 		<part Name="TinkerItem" Bits="00C1" CanBuild="true" CanDisassemble="false"/>
@@ -34,7 +34,7 @@
 		<removepart Name="TinkerItem"/>
 	</object>
 	<object Name="Elastyne Gloves" Load="Merge">
-		<part Name="TinkerItem" Bits="0C1" CanBuild="true" CanDisassemble="false"/>
+		<part Name="TinkerItem" Bits="C12" CanBuild="true" CanDisassemble="false"/>
 	</object>
 	<!-- === boots === -->
 	<object Name="Chain Boots" Load="Merge">
@@ -44,6 +44,16 @@
 		<part Name="TinkerItem" Bits="0CC" CanBuild="true" CanDisassemble="false"/>
 	</object>
 	<object Name="Elastyne Slippers" Load="Merge">
-		<part Name="TinkerItem" Bits="0C1" CanBuild="true" CanDisassemble="false"/>
+		<part Name="TinkerItem" Bits="C12" CanBuild="true" CanDisassemble="false"/>
+	</object>
+	<!-- === helmets === -->
+	<object Name="Gentling Collar" Load="Merge">
+		<part Name="TinkerItem" Bits="CC" CanBuild="true" CanDisassemble="false"/>
+	</object>
+	<object Name="Chain Coif" Load="Merge">
+		<part Name="TinkerItem" Bits="011" CanBuild="true" CanDisassemble="false"/>
+	</object>
+	<object Name="Steel Helmet" Load="Merge">
+		<part Name="TinkerItem" Bits="011" CanBuild="true" CanDisassemble="false"/>
 	</object>
 </objects>

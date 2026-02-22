@@ -1,0 +1,77 @@
+- early
+    # shields
+    iron buckler C
+    steel buckler 0C
+    steel shield 0C
+    # body armor
+    chain mail 00CC
+    ring mail 00CC
+    elastyne skin suit C112
+    steel plate mail 00C1
+    # gloves
+    chain gauntlets 0CC
+    steel gauntlets 0CC
+    x spiked gauntlets
+    elastyne gloves C12
+    # boots
+    chain boots 0CC
+    steel boots 0CC
+    elastyne slippers C12
+    # helmets
+    Gentling Collar CC
+    Chain Coif 011
+    Steel Helmet 011
+- mid
+    # shields
+    carbide shield 0023
+    fullerite shield 0345
+    x blackboard
+    # body armor
+    carbide plate armor 0123
+    flexivest 0124
+    plastifer jerkin 0234
+    plastifer chem vest 02345
+    fullerite flake armor 01345
+    fullerite plate mail 01345
+    # boots
+    carbide boots 0023
+    plastifer sneakers 234
+    fullerite boots 1345
+    # gloves
+    Carbide Gauntlets 0023
+    Plastifer Gloves 234
+    Fullerite Gauntlets 1345
+    # cloaks
+    Ironweave Cloak 134
+    # helmets
+    Plastifer Bonnet 234
+    Fullerite Armet 1345
+- late
+    # shields
+    crysteel shield 256
+    x BaseTierShield6
+    # body armor
+    crysteel shardmail 2556
+    x BaseTierBody6_AV
+    nanoweave vest 5556
+    zetachrome lune 456778
+    x BaseTierBody8_AV
+    # boots
+    crysteel boots 256
+    x BaseTierFeet6_AV
+    zetachrome pumps 45678
+    x BaseTierFeet8_AV
+    # gloves
+    Crysteel Gauntlets 256
+    x BaseTierHands6_AV
+    Flawless Crysteel Gauntlets 3567
+    Zetachrome Gloves 45678
+    x BaseTierHands8_AV
+    # helmets
+    Crysteel Coronet 256
+    x BaseTierHead6_AV
+    Flawless Crysteel Coronet 3567
+    x BaseTierHead7_AV
+    Zetachrome Apex 45678
+    x BaseTierHead8_AV
+    Mental Aggregator 4578

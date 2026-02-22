@@ -4,8 +4,20 @@
 	<object Name="Dart Gun" Load="Merge">
 		<part Name="TinkerItem" Bits="00" CanBuild="true" CanDisassemble="true"/>
 	</object>
+	<object Name="Compass Bracelet" Load="Merge">
+		<part Name="TinkerItem" Bits="122" CanBuild="true" CanDisassemble="true"/>
+	</object>
 	<object Name="Mechanical Wings" Load="Merge">
 		<part Name="TinkerItem" Bits="1333" CanBuild="true" CanDisassemble="true"/>
+	</object>
+	<object Name="Homoelectric Wrist Warmer" Load="Merge">
+		<part Name="TinkerItem" Bits="034" CanBuild="true" CanDisassemble="true"/>
+	</object>
+	<object Name="Spring Boots" Load="Merge">
+		<part Name="TinkerItem" Bits="244" CanBuild="true" CanDisassemble="true"/>
+	</object>
+	<object Name="Spraybottle" Load="Merge">
+		<part Name="TinkerItem" Bits="22" CanBuild="true" CanDisassemble="true"/>
 	</object>
 	<object Name="Phial" Load="Merge">
 		<part Name="TinkerItem" Bits="2" CanBuild="true" CanDisassemble="true"/>

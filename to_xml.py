@@ -1,35 +1,8 @@
 import xml.etree.ElementTree as ET
 from xml.dom import minidom
+from utils import parse_items
 
-def parse_items(text, amount = False):
-    items = {}
-
-    for raw in text.splitlines():
-        line = raw.strip()
-        if not line:
-            continue
-
-        if line.startswith("- "):
-            tier = line[2:].strip()
-            items[tier] = {}
-        elif line.startswith("# "):
-            group = line[2:].strip()
-            items[tier][group] = {}
-        elif line.startswith("x "):
-            name = " ".join([name[0].upper() + name[1:] for name in line[2:].strip().split()])
-            items[tier][group][name] = {"exclude": True}
-        else:
-            if amount:
-                *name_parts, bits, amount = line.split()
-                name = " ".join([name[0].upper() + name[1:] for name in name_parts])
-                items[tier][group][name] = {"bits": bits, "amount": amount}
-            else:
-                *name_parts, bits = line.split()
-                name = " ".join([name[0].upper() + name[1:] for name in name_parts])
-                items[tier][group][name] = {"bits": bits}
-
-    return items
-
+DIR = "items/"
 
 def items_to_xml(items: dict, game_stage: str, disassemble = False):
     root = ET.Element("objects")
@@ -66,31 +39,6 @@ def items_to_xml(items: dict, game_stage: str, disassemble = False):
     reparsed = minidom.parseString(rough)
     return reparsed.toprettyxml(indent="\t", encoding="utf-8").decode("utf-8")
 
-def items_to_list(items, name):
-    for game_stage in items:
-        for group in items[game_stage]:
-            for item in items[game_stage][group]:
-                python_obj = items[game_stage][group][item]
-                if not "exclude" in python_obj:
-                    amount = ""
-                    if "amount" in python_obj:
-                        amount = f"x{str(python_obj["amount"])}"
-                    print(f"{item} {amount} ({python_obj["bits"]})")
-
-
-# files = ["armor.txt", "bows.txt", "arrows.txt", "melee.txt", "other.txt"]
-# print("[code]")
-# for filename in files:
-#     with open(filename) as f:
-#         name = filename[:-4]
-#         if name == "arrows":
-#             items = parse_items(f.read(), True)
-#         else:
-#             items = parse_items(f.read())
-#         items_to_list(items, name)
-# print("[/code]")
-# quit()
-
 ARMOR = True
 BOWS = True
 ARROWS = True
@@ -98,7 +46,7 @@ MELEE = True
 OTHER = True
 
 if ARMOR:
-    with open("armor.txt") as f:
+    with open(DIR+"armor.txt") as f:
         items = parse_items(f.read())
         for game_stage in items:
             with open(f"armor/{game_stage}/disassemble/Objectblueprints.xml", "w+") as new_f:
@@ -107,7 +55,7 @@ if ARMOR:
                 new_f.write(items_to_xml(items, game_stage, False))
 
 if BOWS:
-    with open("bows.txt") as f:
+    with open(DIR+"bows.txt") as f:
         items = parse_items(f.read())
         for game_stage in items:
             with open(f"bows/{game_stage}/disassemble/Objectblueprints.xml", "w+") as new_f:
@@ -116,14 +64,14 @@ if BOWS:
                 new_f.write(items_to_xml(items, game_stage, False))
 
 if ARROWS:
-    with open("arrows.txt") as f:
+    with open(DIR+"arrows.txt") as f:
         items = parse_items(f.read(), True)
         for game_stage in items:
             with open(f"arrows/{game_stage}/Objectblueprints.xml", "w+") as new_f:
                 new_f.write(items_to_xml(items, game_stage, False))
 
 if MELEE:
-    with open("melee.txt") as f:
+    with open(DIR+"melee.txt") as f:
         items = parse_items(f.read())
         for game_stage in items:
             with open(f"melee/{game_stage}/disassemble/Objectblueprints.xml", "w+") as new_f:
@@ -132,7 +80,7 @@ if MELEE:
                 new_f.write(items_to_xml(items, game_stage, False))
 
 if OTHER:
-    with open("other.txt") as f:
+    with open(DIR+"other.txt") as f:
         items = parse_items(f.read())
         for game_stage in items:
             with open(f"other/{game_stage}/disassemble/Objectblueprints.xml", "w+") as new_f:

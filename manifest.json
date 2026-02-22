@@ -2,7 +2,7 @@
     "id": "zbrek_TinkerMore",
     "title": "Tinker More",
     "description": "{{|&YEver felt annoyed that you can't craft arrows?}}\nAllows you to tinker non-technical items: bows, arrows, melee weapons, armor and others.\n\n{{|&YYou can set which items are tinkerable and toggle disassembling in the mod options.}} Remember, adding more tinkerable items makes finding a specific schematic harder and making powerful items tinkerable will shift the balance of the game!\n\nTinkering level required is determined by CoQ based on the recipe; late-game items require high-tier bits.",
-    "version": "1.0.1",
+    "version": "1.1.0",
     "author": "zbrek",
     "tags": "Stable,Tinkering,Vanilla,Balance,Resource",
     "PreviewImage": "preview.png",

@@ -10,4 +10,5 @@ fullerite arrow 45 20
 - late
 # arrows
 crysteel arrow 56 10
+Flawless Crysteel Arrow 67 10
 zetachrome arrow 78 10

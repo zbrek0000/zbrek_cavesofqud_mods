@@ -5,12 +5,13 @@ battle axe2 0
 x baseRelicAxe1
 x tutorialBattleAxe
 steel battle axe 00
-x baseRelicAxe2
+pickaxe 00
+x BaseRelicAxe2
 steel hand axe 00
 steel vinereaper 00
 # axe 2h
 steel battle axeth 000
-x baseRelicAxe2th
+x BaseRelicAxe2th
 # cudgel
 wrench 0
 warhammer2 0
@@ -74,28 +75,36 @@ long sword5th 3455
 dagger3 023
 x BloodyDagger3
 dagger4 0234
+ArmDagger4 0234
 x difucila
 dagger5 1345
 - late
 # axe
-battle axe6 0256
-battle axe8 045678
+battle axe6 256
+battle axe7 567
+battle axe8 45678
 # axe 2h
-battle axe6th 02566
-battle axe8th 0456678
+battle axe6th 2566
+battle axe7th 5677
+battle axe8th 456678
 # cudgel
-cudgel6 0256
-cudgel8 045678
+cudgel6 256
+cudgel7 567
+cudgel8 45678
 # cudgel 2h
-cudgel6th 02566
-cudgel8th 0456678
+cudgel6th 2566
+cudgel7th 5677
+cudgel8th 456678
 # long blade
-long sword6 02566
-long sword8 045678
+long sword6 2566
+long sword7 5677
+long sword8 45678
 # long blade 2h
-long sword6th 02566
-long sword8th 0456678
+long sword6th 2566
+Long Sword7th 4677
+long sword8th 456678
 # short blade
-dagger6 02566
-dagger8 045678
+dagger6 2566
+dagger7 5677
+dagger8 45678
 x aoygDagger

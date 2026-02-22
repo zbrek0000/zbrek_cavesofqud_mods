@@ -16,6 +16,9 @@
 	<object Name="Steel Battle Axe" Load="Merge">
 		<part Name="TinkerItem" Bits="00" CanBuild="true" CanDisassemble="false"/>
 	</object>
+	<object Name="Pickaxe" Load="Merge">
+		<part Name="TinkerItem" Bits="00" CanBuild="true" CanDisassemble="false"/>
+	</object>
 	<object Name="BaseRelicAxe2" Load="Merge">
 		<removepart Name="TinkerItem"/>
 	</object>

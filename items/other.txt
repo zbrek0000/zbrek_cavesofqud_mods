@@ -1,7 +1,11 @@
 - other
     # other
     dart gun 00
+    Compass Bracelet 122
     mechanical wings 1333
+    Homoelectric Wrist Warmer 034
+    Spring Boots 244
+    Spraybottle 22
     phial 2
     x random rare phial
     x ink phial
