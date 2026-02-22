@@ -25,4 +25,3 @@ for filename in files:
             items = parse_items(f.read())
         items_to_list(items, name)
 print("[/code]")
-quit()

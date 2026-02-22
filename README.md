@@ -1,6 +1,12 @@
-This is a simple mod for the roguelike game Caves of Qud. You also can download it through Steam Workshop. Feel free to copy it, modify it or just learn from it!
+# zbrek's Caves of Qud mods
 
-# Python scripts
-* **check_for_inheritance.py** - prints out item inheritors in the base game files (if you don't want inheritors to be tinkerable, you have to remove them by writing `x itemName` in the files); you need to specify `PATH_TO_OBJECT_BLUEPRINTS`
-* **print_items.py** - prints out the items and their added recipes
-* **to_xml.py** - populate the .xml files after you modify the item files
+This is a repository of my Caves of Qud mods. Caves of Qud is a sci-fi roguelike game, available on Steam.
+
+Feel free to modify, learn from and use my mods in any way you like.
+
+[Here's my Caves of Qud workshop on Steam!](https://steamcommunity.com/profiles/76561199039300457/myworkshopfiles/?appid=333640)
+
+# list of mods
+- **Tinker More** - a simple resource mod that adds more tinkering recipes
+
+*...more uploads incoming!*
