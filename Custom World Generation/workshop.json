@@ -1,0 +1,8 @@
+{
+  "WorkshopId": 3682709316,
+  "Title": "Custom World Generation",
+  "Description": "[b]about[/b]\nInspired by world generation settings in Dwarf Fortress. This mod allows you to change the number of locations and game objects that Caves of Qud generates.\nAt this moment Custom World Generation allows you to change:\n- the number of villages (0x, 1x, 2x, 4x)\n- the number of lairs (0x, 1x, 2x, 4x)\n- Sultan history length (1x, 2x, 4x)\n- the number of procedural quests (0x, 1x, 2x, 4x)\nYou can choose the settings during character creation.\n[b]compability[/b]\nThis mod uses Harmony patches to overwrite world generation functions or inject intermediate language instructions into them.\nFunctions modified:\n[code]\nQudHistoryFactory.GenerateVillageEraHistory\nJoppaWorldBuilder.BuildLairs\nJoppaWorldBuilder.BuildDynamicQuests\nQudHistoryFactory.GenerateNewSultan\nJoppaWorldBuilder.AddSultanHistoryLocations\nQudHistoryFactory.GenerateNewSultanHistory\n[/code]",
+  "Tags": "Script,Harmony,World",
+  "Visibility": "2",
+  "ImagePath": "preview.png"
+}

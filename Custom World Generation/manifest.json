@@ -1,0 +1,9 @@
+{
+    "id": "zbrek_CustomWorldGeneration",
+    "title": "Custom World Generation",
+    "description": "Allows you to change the number of villages, lairs, Sultan events and quests in the world of Qud before embarking.",
+    "version": "1.0.0",
+    "author": "zbrek",
+    "tags": "Script,Harmony,World",
+    "PreviewImage": "preview.png"
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<embarkmodules>
+  <module Class="zbrek_CustomWorldGeneration.CustomWorldGenerationEmbarkModule">
+    <window ID="Chargen/zbrek_CustomWorldGeneration" Prefab="CategoryMenus" Class="zbrek_CustomWorldGeneration.CustomWorldGenerationEmbarkWindow">
+      <name>Custom World Generation</name>
+      <title>:select world generation option:</title>
+    </window>
+  </module>
+</embarkmodules>
