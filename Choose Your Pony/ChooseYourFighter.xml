@@ -1,0 +1,31 @@
+<KernelmethodChooseYourFighter>
+  <group ID="zbrek_ChooseYourPony" Name="{{rainbow|- Choose Your Pony}}">
+    <model ID="zbrek_cyp_rainbow_dash" Name="{{c| Rainbow Dash}}">
+      <tile Path="Characters\zbrek_cyp_rainbow_dash.png" Foreground="c" DetailColor="o" />
+    </model>
+    <model ID="zbrek_cyp_fluttershy" Name="{{W| Fluttershy}}">
+      <tile Path="Characters\zbrek_cyp_fluttershy.png" Foreground="W" DetailColor="M" />
+    </model>
+    <model ID="zbrek_cyp_pinkie_pie" Name="{{M| Pinkie Pie}}">
+      <tile Path="Characters\zbrek_cyp_pinkie_pie.png" Foreground="M" DetailColor="r" />
+    </model>
+    <model ID="zbrek_cyp_rarity" Name="{{y| Rarity}}">
+      <tile Path="Characters\zbrek_cyp_rarity.png" Foreground="y" DetailColor="m" />
+    </model>
+    <model ID="zbrek_cyp_twilight_sparkle" Name="{{m| Twilight Sparkle}}">
+      <tile Path="Characters\zbrek_cyp_twilight_sparkle.png" Foreground="M" DetailColor="b" />
+    </model>
+    <model ID="zbrek_cyp_applejack" Name="{{r| Applejack}}">
+      <tile Path="Characters\zbrek_cyp_applejack.png" Foreground="r" DetailColor="W" />
+    </model>
+    <model ID="zbrek_cyp_princess_luna" Name="{{b| Princess Luna}}">
+      <tile Path="Characters\zbrek_cyp_princess_luna.png" Foreground="b" DetailColor="B" />
+    </model>
+    <model ID="zbrek_cyp_princess_celestia" Name="{{Y| Princess Celestia}}">
+      <tile Path="Characters\zbrek_cyp_princess_celestia.png" Foreground="Y" DetailColor="W" />
+    </model>
+    <model ID="zbrek_cyp_spike" Name="{{G| Spike}}">
+      <tile Path="Characters\zbrek_cyp_spike.png" Foreground="M" DetailColor="G" />
+    </model>
+  </group>
+</KernelmethodChooseYourFighter>
