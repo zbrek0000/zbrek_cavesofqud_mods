@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<options>
+    <option ID="Option_zbrek_RoleplaySaveSystemOverhaul_CampfireCheckpoint"
+        DisplayText="Checkpoint when using campfires"
+        Category="Mods: Roleplay Save System Overhaul"
+        Type="Checkbox" Default="Yes" Restart="true">
+    </option>
+</options>

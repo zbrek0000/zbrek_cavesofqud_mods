@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<commands>
+    <!-- Custom "Category" and "Layer" to avoid key conflicts -->
+    <command ID="zbrek_RoleplaySaveSystemOverhaul_SavesList" DisplayText="Display saves list" Category="zbrek_RoleplaySaveSystemOverhaul" Layer="zbrek_RoleplaySaveSystemOverhaul" Auto="DownPass">
+        <keyboardBind Key="l"/>
+    </command>
+</commands>

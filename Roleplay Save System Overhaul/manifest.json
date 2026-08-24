@@ -1,0 +1,24 @@
+{
+    "id": "zbrek_RoleplaySaveSystemOverhaul",
+    "title": "Roleplay Save System Overhaul",
+    "description": "This mod makes it easier to save, checkpoints on save and allows you to keep multiple saves throughout one playthrough.",
+    "version": "1.0.0",
+    "author": "zbrek",
+    "tags": "Script,Harmony",
+    "PreviewImage": "preview.png",
+    "Directories": [
+        {
+            "Path": "XML"
+        },
+        {
+            "Path": "wish"
+        },
+        {
+            "Path": "save_system"
+        },
+        {
+            "Path": "campfire",
+            "Options": "Option_zbrek_RoleplaySaveSystemOverhaul_CampfireCheckpoint==Yes"
+        }
+    ]
+}

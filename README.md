@@ -10,5 +10,6 @@ Feel free to modify, learn from and use my mods in any way you like.
 - **Tinker More** - a simple resource mod that adds more tinkering recipes
 - **Custom World Generation** - a mod that allows you to control world generation, uses Harmony patches
 - **Choose Your Pony** - adds more player tiles for the *Choose Your Fighter* mod
+- **Roleplay Save System Overhaul** - adds multi save system to Roleplay, uses Harmony patches
 
 *...more uploads incoming!*
