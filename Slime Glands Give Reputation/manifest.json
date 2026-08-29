@@ -1,0 +1,9 @@
+{
+    "id": "zbrek_SlimeGlandsGiveReputation",
+    "title": "Slime Glands Give Reputation",
+    "description": "Slime glands now give +100 mollusk and ooze reputation. You can pet blue jell. That's it.",
+    "version": "1.0",
+    "author": "zbrek",
+    "tags": "Resource,Mutation",
+    "PreviewImage": "preview.png"
+}

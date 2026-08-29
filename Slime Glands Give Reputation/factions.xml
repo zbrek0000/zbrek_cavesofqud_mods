@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<factions>
+    <faction Name="Oozes" Load="Merge">
+        <partreputation About="SlimeGlands" Value="100" />
+        <partreputation About="AcidSlimeGlands" Value="100" />
+    </faction>
+    <faction Name="Mollusks" Load="Merge">
+        <partreputation About="SlimeGlands" Value="100" />
+        <partreputation About="AcidSlimeGlands" Value="100" />
+    </faction>
+</factions>

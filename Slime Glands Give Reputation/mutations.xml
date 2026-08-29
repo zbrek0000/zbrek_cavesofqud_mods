@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mutations>
+	<category Name="Physical">
+		<mutation Name="Slime Glands" Class="SlimeGlands">
+			<leveltext Load="Merge">
+				<p>+100 reputation with mollusks and oozes</p>
+			</leveltext>
+		</mutation>
+		<mutation Name="Acid Slime Glands" Class="AcidSlimeGlands">
+		<!-- doesn't work now (hidden mutation text is not exposed), hopefully it works in the future -->
+			<leveltext Load="Merge">
+				<p>+100 reputation with mollusks and oozes</p>
+			</leveltext>
+		</mutation>
+	</category>
+</mutations>
