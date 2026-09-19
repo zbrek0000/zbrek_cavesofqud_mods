@@ -1,0 +1,29 @@
+<KernelmethodChooseYourFighter>
+  <group ID="zbrek_ChooseYourPod" Name="{{bethsaida|- Choose Your Isopod}}">
+    <model ID="zbrek_cyp_bathynomus_side" Name="{{c| Bathynomus (giganteus) side}}">
+      <tile Path="Characters\zbrek_cyp_bathynomus_side.png" Foreground="y" DetailColor="c" />
+    </model>
+    <model ID="zbrek_cyp_bathynomus_top" Name="{{c| Bathynomus (giganteus) top}}">
+      <tile Path="Characters\zbrek_cyp_bathynomus_top.png" Foreground="y" DetailColor="c" />
+    </model>
+    <model ID="zbrek_cyp_bathynomus_conglobating" Name="{{c| Bathynomus (giganteus) conglobating}}">
+      <tile Path="Characters\zbrek_cyp_bathynomus_conglobating.png" Foreground="y" DetailColor="c" />
+    </model>
+    <model ID="zbrek_cyp_cubaris_side" Name="{{W| Cubaris (sp. 'rubber ducky') side}}">
+      <tile Path="Characters\zbrek_cyp_cubaris_side.png" Foreground="r" DetailColor="W" />
+    </model>
+    <model ID="zbrek_cyp_cubaris_top" Name="{{W| Cubaris (sp. 'rubber ducky') top}}">
+      <tile Path="Characters\zbrek_cyp_cubaris_top.png" Foreground="r" DetailColor="W" />
+    </model>
+    <model ID="zbrek_cyp_cubaris_conglobating"
+      Name="{{W| Cubaris (sp. 'rubber ducky') conglobating}}">
+      <tile Path="Characters\zbrek_cyp_cubaris_conglobating.png" Foreground="r" DetailColor="W" />
+    </model>
+    <model ID="zbrek_cyp_porcellio_top" Name="{{Y| Porcellio (laevis 'dairy cow') top}}">
+      <tile Path="Characters\zbrek_cyp_porcellio_top.png" Foreground="Y" DetailColor="K" />
+    </model>
+    <model ID="zbrek_cyp_porcellio_side" Name="{{Y| Porcellio (laevis 'dairy cow') side}}">
+      <tile Path="Characters\zbrek_cyp_porcellio_side.png" Foreground="Y" DetailColor="K" />
+    </model>
+  </group>
+</KernelmethodChooseYourFighter>
